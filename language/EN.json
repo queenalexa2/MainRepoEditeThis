@@ -51,7 +51,7 @@
         },
         "afk": {
             "AFK_DESC": "It makes you AFK - Away From Keyboard.",
-            "IM_AFK": "*🎭ɴᴇᴏᴛʀᴏ𝙭🪐 I'm AFK now!*",
+            "IM_AFK": "*⦁═𝗖𝘂𝘇𝗶𝗲𝗿═⦁ I'm AFK now!*",
             "IM_AFK_NOMD": "🎭ɴᴇᴏᴛʀᴏ𝙭🪐 I'm AFK now!",
             "REASON": "Reason",
             "LAST_SEEN": "Last Seen",
@@ -186,8 +186,8 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n⏪Downloading your song\n",
-            "UPLOADING_SONG": "\nUploading your song 🔽\n",
+            "DOWNLOADING_SONG": "\n🔂 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗶𝗻...\n",
+            "UPLOADING_SONG": "\n🔂 𝗨𝗽𝗹𝗼𝗮𝗱𝗶𝗻𝗴...\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "```🙇Downloading...```",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```⚡Neotro Created sticker```"
+            "DOWNLOADING": "```📝cuzier Created sticker```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
