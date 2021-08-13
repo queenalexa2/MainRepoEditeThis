@@ -72,7 +72,7 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "*Restart 🎭ɴᴇᴏᴛʀᴏ𝙭🪐*",
+            "RESTART_DESC": "*Restart 🎭Venom X🪐*",
             "RESTART_MSG": "```♻Restarting...```",
             "SHUTDOWN_DESC": "*Shutdown 🎭ɴᴇᴏᴛʀᴏ𝙭🪐*",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
@@ -186,8 +186,8 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n🔂 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗶𝗻...\n",
-            "UPLOADING_SONG": "\n🔂 𝗨𝗽𝗹𝗼𝗮𝗱𝗶𝗻𝗴...\n",
+            "DOWNLOADING_SONG": "\n```🔂 Download```\n",
+            "UPLOADING_SONG": "\n```🔂 Upload```\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "```🙇Downloading...```",
