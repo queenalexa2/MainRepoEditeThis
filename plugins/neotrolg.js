@@ -24,12 +24,12 @@ Asena.addCommand({pattern: 'textimg', fromMe: false, desc: Lang.UP}, (async (mes
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage (Buffer.from (respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*◁○Neutro Logopack ○▷*
+    await message.sendMessage (Buffer.from (respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*⦁═𝗖𝘂𝘇𝗶𝗲𝗿 𝗫═⦁*
 
  
-▭▬▬▬▬▬▬👽▬▬▬▬▬▬▭
-  ⚜𝗖𝗨𝗭𝗜𝗘𝗥  𝗟𝗢𝗚𝗢  𝗣𝗔𝗖𝗞⚜
-▭▬▬▬▬▬▬▬▬▬▬▬▬▬▭
+▭▬▬▬▬▬●👽●▬▬▬▬▬▭
+ ⚜𝗖𝗨𝗭𝗜𝗘𝗥  𝗟𝗢𝗚𝗢  𝗣𝗔𝗖𝗞⚜
+▭▬▬▬▬▬▣▬▣▬▬▬▬▬▭
 
 📌මෙය පහසුවෙන්ම විවිධ LoGo සාදයි කළයුතු වන්නෙ පහත විධානයකට ඉදිරියෙන් ඔබේ අකුරු දමන්න පමණි.
 🙇උදා: .ninjalogo Cuzier X
@@ -132,7 +132,7 @@ Asena.addCommand({pattern: 'textimg', fromMe: false, desc: Lang.UP}, (async (mes
 *🧚‍♀️විධානය* ➜ .vtext
 *💫විස්තරය* : එය අකුරු video බවට හරවයි.
 
-*▭▬▭𝗣𝗼𝘄𝗲𝗿𝗱 𝗯𝘆 👽 𝗖𝘂𝘇𝗶𝗲𝗿 𝗫▭▬▭*
+*▭▬▭𝗣𝗼𝘄𝗲𝗿𝗱 𝗯𝘆 👽 𝗖𝘂𝘇𝗶𝗲𝗿▭▬▭*
 `}) 
 
  }));
