@@ -645,7 +645,7 @@ if (Config.WORKTYPE == 'private') {
 
         var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-        await message.client.sendMessage(message.jid, Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: 'Made by WhatsAsena'})
+        await message.client.sendMessage(message.jid, Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '𝗠𝗮𝗱𝗲 𝗯𝘆 👽 𝗖𝘂𝘇𝗶𝗲𝗿 𝗫'})
 
     }));
 }
@@ -1280,7 +1280,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-        await message.client.sendMessage(message.jid, Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: 'Made by *🎭ɴᴇᴏᴛʀᴏ𝙭🪐*'})
+        await message.client.sendMessage(message.jid, Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '𝗠𝗮𝗱𝗲 𝗯𝘆 👽 𝗖𝘂𝘇𝗶𝗲𝗿 𝗫'})
 
     }));
     Asena.addCommand({pattern: 'wallpaper', fromMe: true, desc: Lang.WP, dontAddCommandList: true}, (async (message, match) => {
@@ -1912,7 +1912,7 @@ else if (Config.WORKTYPE == 'public') {
 
         var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-        await message.client.sendMessage(message.jid, Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '*𝗠𝗮𝗱𝗲 𝗯𝘆 👽 𝗖𝘂𝘇𝗶𝗲𝗿 𝗫*'})
+        await message.client.sendMessage(message.jid, Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '𝗠𝗮𝗱𝗲 𝗯𝘆 👽 𝗖𝘂𝘇𝗶𝗲𝗿 𝗫'})
 
     }));
 }
