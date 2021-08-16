@@ -52,7 +52,7 @@
         "afk": {
             "AFK_DESC": "It makes you AFK - Away From Keyboard.",
             "IM_AFK": "*⦁═𝗖𝘂𝘇𝗶𝗲𝗿═⦁ I'm AFK now!*",
-            "IM_AFK_NOMD": "🎭ɴᴇᴏᴛʀᴏ𝙭🪐 I'm AFK now!",
+            "IM_AFK_NOMD": "*⦁══⦁ Queen 👸 Alexa ⦁══⦁* I'm AFK now!",
             "REASON": "Reason",
             "LAST_SEEN": "Last Seen",
             "IM_NOT_AFK": "```I am not AFK anymore!```",
@@ -72,9 +72,9 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "*Restart 🎭Venom X🪐*",
-            "RESTART_MSG": "```♻Restarting...```",
-            "SHUTDOWN_DESC": "*Shutdown 🎭ɴᴇᴏᴛʀᴏ𝙭🪐*",
+            "RESTART_DESC": "*Restart*",
+            "RESTART_MSG": "```⦁═⦁Queen 👸 Alexa Restarting...```",
+            "SHUTDOWN_DESC": "*Shutdown ⦁═⦁ Queen👸Alexa ⦁═⦁*",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```👽cuzier Created sticker```"
+            "DOWNLOADING": "```👸 Alexa Created sticker```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*🎭ɴᴇᴏᴛʀᴏ𝙭🪐 Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n\nChanges:\n```",
+            "NEW_UPDATE": "*Queen 👸 Alexa Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "```Updating..♻```",
+            "UPDATING": "```♻Updating... Alexa ♻```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*Updated➜ 🎭✅*",
+            "UPDATED": "*Updated ➤ 👸*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*🎭ɴᴇᴏᴛʀᴏ𝙭🪐 Restarting*"
+            "AFTER_UPDATE": "*👸 Alexa Restarting*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
@@ -553,7 +553,7 @@
             "ADON_MISSING": "```විධානය අවලංගුය.```",
             "ADON_SUCCESS": "```✅සාර්තකයි```",
             "ADON_INVALID": "```විධානය අවලංගුය.```",
-            "NOT_AVAILABLE": "⛔Neotro-X chat bot අක්‍රිය කර ඇත."
+            "NOT_AVAILABLE": "⛔Queen alexa chat bot අක්‍රිය කර ඇත."
         },
         "AsenaPlug": {
             "DELETING": "🧞messages deleting",
