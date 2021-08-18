@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *🎭ɴᴇᴏᴛʀᴏ𝙭🪐*:  ```" + msg + "```"
+    return "✅ *⦁═Queen 👸 Alexa═⦁*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *🎭ɴᴇᴏᴛʀᴏ𝙭🪐*:  ```" + msg + "```"
+    return "🛑 *⦁═Queen 👸 Alexa═⦁*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *🎭ɴᴇᴏᴛʀᴏ𝙭🪐*:  ```" + msg + "```"
+    return "⏺️ *⦁═Queen 👸 Alexa═⦁*:  ```" + msg + "```"
 }
 
 
