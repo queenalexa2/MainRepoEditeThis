@@ -4,7 +4,7 @@
 
 
 
-
+![logo](https://telegra.ph/file/5c3f1c0e70083d6a0c23a.jpg)
 
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CuzierX1&show_icons=true&theme=nightowl" alt="Manish" /></p>
